@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Activitat · Secundària"
+title: "Dissenyar una activitat competencial i un recurs visual"
 parent: "Activitats · Bloc 1"
 grand_parent: "Bloc 1 · IA Col·laborativa i Gestió GVA"
 nav_order: 3
@@ -12,7 +12,7 @@ translation_key: bloque1-actividad-secundaria
 {% include language-switcher.html %}
 
 
-# Activitat · Educació Secundària
+# Activitat · Dissenyar una activitat competencial i un recurs visual
 {: .fs-7 }
 
 Dissenya una activitat competencial contextualitzada i transforma-la en un recurs visual clar per al teu alumnat, amb ajuda de Copilot.

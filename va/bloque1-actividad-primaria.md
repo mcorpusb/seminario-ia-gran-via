@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Activitat · Primària"
+title: "Adaptar materials a diferents nivells"
 parent: "Activitats · Bloc 1"
 grand_parent: "Bloc 1 · IA Col·laborativa i Gestió GVA"
 nav_order: 2
@@ -11,27 +11,27 @@ translation_key: bloque1-actividad-primaria
 
 {% include language-switcher.html %}
 
-# Activitat · Educació Primària
+# Activitat · Adaptar materials a diferents nivells
 {: .fs-7 }
 
-Dissenya una fitxa de comprensió lectora multinivell per a atendre la diversitat del teu grup, amb ajuda de Copilot.
+Dissenya materials multinivell per a atendre la diversitat del teu grup d'ESO o Batxillerat, amb ajuda de Copilot.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objectiu
 
-Utilitzar Microsoft Copilot per a crear una fitxa de comprensió lectora amb tres nivells de dificultat a partir d'un mateix text, llesta per a imprimir i usar a l'aula l'endemà.
+Utilitzar Microsoft Copilot per a crear materials amb tres nivells de dificultat a partir d'un mateix contingut, llestos per a imprimir i usar a l'aula l'endemà.
 
 ---
 
 ## 🧠 Situació real d'aula
 
-Eres tutor/a d'un grup de Primària (3r, 4t, 5é o 6é). Tens 25 alumnes amb nivells de comprensió lectora molt diferents:
+Eres tutor/a o professor/a d'un grup d'ESO o Batxillerat. Tens un grup heterogeni amb nivells molt diferents de comprensió i autonomia:
 
 - Un grup avançat que necessita activitats de més exigència.
 - Un grup que seguix el nivell ordinari del curs.
-- Diversos alumnes amb necessitats de suport que requerixen textos més senzills i preguntes més guiades.
+- Diversos alumnes amb necessitats de suport que requerixen textos més senzills, bastiment i preguntes més guiades.
 
 Preparar tres versions de la mateixa fitxa et portaria tota la vesprada. Amb Copilot pots generar les tres versions en menys de 20 minuts, revisar-les i tindre-les llestes per a imprimir.
 

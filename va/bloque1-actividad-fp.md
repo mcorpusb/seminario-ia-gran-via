@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Activitat · F.P."
+title: "Crear un cas pràctic o simulació"
 parent: "Activitats · Bloc 1"
 grand_parent: "Bloc 1 · IA Col·laborativa i Gestió GVA"
 nav_order: 4
@@ -11,10 +11,10 @@ translation_key: bloque1-actividad-fp
 
 {% include language-switcher.html %}
 
-# Activitat · Formació Professional
+# Activitat · Crear un cas pràctic o simulació
 {: .fs-7 }
 
-Crea un cas pràctic professional simulat i la documentació tècnica associada per al teu mòdul, amb ajuda de Copilot.
+Crea un cas pràctic, una simulació o la documentació tècnica associada per a la teua matèria o àmbit, amb ajuda de Copilot.
 {: .fs-5 .fw-300 }
 
 ---

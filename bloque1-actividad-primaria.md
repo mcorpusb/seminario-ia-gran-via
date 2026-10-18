@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · Primaria"
+title: "Adaptar materiales a distintos niveles"
 parent: "Actividades · Bloque 1"
 grand_parent: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 2
@@ -11,29 +11,29 @@ translation_key: bloque1-actividad-primaria
 
 {% include language-switcher.html %}
 
-# Actividad · Educación Primaria
+# Actividad · Adaptar materiales a distintos niveles
 {: .fs-7 }
 
-Diseña una ficha de comprensión lectora multinivel para atender la diversidad de tu grupo, con ayuda de Copilot.
+Diseña materiales multinivel para atender la diversidad de tu grupo de ESO o Bachillerato, con ayuda de Copilot.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar Microsoft Copilot para crear una ficha de comprensión lectora con tres niveles de dificultad a partir de un mismo texto, lista para imprimir y usar en el aula al día siguiente.
+Utilizar Microsoft Copilot para crear materiales con tres niveles de dificultad a partir de un mismo contenido, listos para imprimir y usar en el aula al día siguiente.
 
 ---
 
 ## 🧠 Situación real de aula
 
-Eres tutor/a de un grupo de Primaria (3.º, 4.º, 5.º o 6.º). Tienes 25 alumnos/as con niveles de comprensión lectora muy diferentes:
+Eres tutor/a o profesor/a de un grupo de ESO o Bachillerato. Tienes un grupo heterogéneo con niveles muy diferentes de comprensión y autonomía:
 
 - Un grupo avanzado que necesita actividades de mayor exigencia.
 - Un grupo que sigue el nivel ordinario del curso.
-- Varios alumnos/as con necesidades de apoyo que requieren textos más sencillos y preguntas más guiadas.
+- Varios alumnos/as con necesidades de apoyo que requieren textos más sencillos, andamiaje y preguntas más guiadas.
 
-Preparar tres versiones de la misma ficha te llevaría toda la tarde. Con Copilot puedes generar las tres versiones en menos de 20 minutos, revisarlas y tenerlas listas para imprimir.
+Preparar tres versiones del mismo material te llevaría toda la tarde. Con Copilot puedes generar las tres versiones en menos de 20 minutos, revisarlas y tenerlas listas para imprimir.
 
 ---
 
@@ -52,17 +52,17 @@ Preparar tres versiones de la misma ficha te llevaría toda la tarde. Con Copilo
 
 ## 💬 Prompt listo para usar
 
-### Prompt 1 — Ficha de comprensión lectora multinivel
+### Prompt 1 — Material multinivel
 
 ```text
-Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
+Actúa como un profesor/a de Secundaria o Bachillerato especialista en atención a la diversidad y diseño universal para el aprendizaje (DUA).
 
-Contexto: Soy tutor/a de [CURSO: 3.º/4.º/5.º/6.º] de Primaria en un colegio público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "los ecosistemas", "un fragmento de literatura infantil", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Conocimiento del Medio, Valenciano…].
+Contexto: Soy docente de [CURSO: 1.º/2.º/3.º/4.º ESO o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con tres niveles de comprensión y autonomía claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "un poema", "un texto de Historia", "un artículo de opinión", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Historia, Valenciano, Biología, Orientación…].
 
 Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
 
 1. **Texto base** (150-200 palabras), adecuado para [CURSO] y relacionado con [TEMA].
-2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
+2. **Nivel 1 — Apoyo** (alumnado con necesidad de apoyo):
    - 4 preguntas de localización directa (la respuesta está explícita en el texto).
    - Vocabulario sencillo, frases cortas.
    - Incluir un ejemplo resuelto como modelo.
@@ -81,14 +81,14 @@ Formato: texto plano estructurado con encabezados claros para cada nivel, listo 
 ### Ejemplo de prompt ya completado
 
 ```text
-Actúa como un maestro/a de Educación Primaria especialista en comprensión lectora y atención a la diversidad, con experiencia en diseño universal para el aprendizaje (DUA).
+Actúa como un profesor/a de Secundaria o Bachillerato especialista en atención a la diversidad y diseño universal para el aprendizaje (DUA).
 
 Contexto: Soy tutor/a de 4.º de Primaria en un colegio público de la Comunitat Valenciana. Tengo 24 alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo un texto narrativo-informativo sobre una salida a una marjal valenciana en el área de Lengua Castellana.
 
 Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
 
 1. **Texto base** (150-200 palabras), adecuado para 4.º y relacionado con una salida a la marjal.
-2. **Nivel 1 — Apoyo** (alumnado con NEAE o desfase curricular):
+2. **Nivel 1 — Apoyo** (alumnado con necesidad de apoyo):
    - 4 preguntas de localización directa (la respuesta está explícita en el texto).
    - Vocabulario sencillo, frases cortas.
    - Incluir un ejemplo resuelto como modelo.
@@ -106,7 +106,7 @@ Formato: texto plano estructurado con encabezados claros para cada nivel, listo 
 
 ### Ejemplo de respuesta de Copilot
 
-**Ficha de comprensión lectora multinivel — 4.º de Primaria**
+**Material multinivel — 2.º de ESO**
 
 **Nombre:** ____________________________   **Fecha:** _______________
 

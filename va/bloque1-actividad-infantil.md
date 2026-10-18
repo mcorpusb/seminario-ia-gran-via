@@ -32,19 +32,19 @@ Crear i revisar un conte breu per a una situació real d'Educació Infantil, tra
 
 ## 🧩 El repte
 
-Pensa en un tema o situació que estigues treballant o vages a treballar pròximament: emocions, convivència, animals, estacions, hàbits, alimentació, autonomia, natura, arribada al col·legi, cos o un altre contingut adequat.
+Pensa en un tema o situació que estigues treballant o vages a treballar pròximament en Secundària o Batxillerat: convivència, ciutadania digital, educació en valors, ús responsable de la tecnologia, literatura, història, igualtat, salut, orientació o qualsevol altre contingut adequat.
 
 Utilitza l'assistent d'IA que tingues disponible i l'ús del qual siga adequat per a la tasca. Pot ser Copilot Chat, ChatGPT, Gemini, Kimi o una altra alternativa del [Radar de ferramentes]({{ '/va/herramientas-que-utilizaremos.html#radar' | relative_url }}). No necessites utilitzar un compte personal.
 
 Seguiràs este recorregut:
 
-**Necessitat d'aula → conte → revisió docent → còmic o conte il·lustrat → comunicació a famílies → reflexió**
+**Necessitat d'aula → idea narrativa → revisió docent → recurs visual → orientació final → reflexió**
 
 En acabar tindràs:
 
-- un conte breu revisat;
-- un xicotet còmic, conte il·lustrat o seqüència visual;
-- una comunicació breu per a les famílies;
+- un conte breu, còmic o seqüència narrativa revisada;
+- un xicotet recurs visual o una seqüència d'escenes;
+- una orientació breu per al professorat o el grup;
 - una reflexió sobre el procés.
 
 ## Definix la necessitat d'aula
@@ -67,11 +67,12 @@ Missatge o aprenentatge que vols treballar:
 Adapta este prompt amb la informació de la teua fitxa:
 
 ```text
-Vull crear un conte breu per a una assemblea d'Educació Infantil.
+Vull crear un conte breu per a una activitat de Secundària o Batxillerat.
 
-Edat: [3/4/5 anys]
+Curs: [ESO/Batxillerat]
 Tema: [completa]
 Objectiu: [completa]
+Matèria o àmbit: [completa]
 Interés general del grup: [completa]
 
 Escriu un conte d'unes 200-300 paraules, pensat per a llegir en veu alta.

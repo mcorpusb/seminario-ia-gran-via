@@ -24,7 +24,11 @@ Este espacio reúne los materiales del seminario en una versión independiente p
 
 - Una introducción clara a la inteligencia artificial generativa.
 - Un bloque práctico sobre conversación, contexto y revisión de resultados.
-- Actividades organizadas por etapa educativa.
+- Actividades organizadas por tipos de recursos y necesidades docentes.
+
+## Organización del Bloque 1
+
+Las actividades del Bloque 1 se presentan por el tipo de tarea que ayudan a resolver: crear relatos o materiales visuales, adaptar materiales a distintos niveles, diseñar actividades competenciales, construir simulaciones o preparar dinámicas comunicativas.
 
 ## Cómo navegar
 

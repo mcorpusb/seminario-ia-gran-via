@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · FP"
+title: "Crear un caso práctico o simulación"
 parent: "Actividades · Bloque 1"
 grand_parent: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 4
@@ -11,10 +11,10 @@ translation_key: bloque1-actividad-fp
 
 {% include language-switcher.html %}
 
-# Actividad · Formación Profesional
+# Actividad · Crear un caso práctico o simulación
 {: .fs-7 }
 
-Crea un caso práctico profesional simulado y la documentación técnica asociada para tu módulo, con ayuda de Copilot.
+Crea un caso práctico, una simulación o la documentación técnica asociada para tu materia o ámbito, con ayuda de Copilot.
 {: .fs-5 .fw-300 }
 
 ---

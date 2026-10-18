@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Activitat · EOI"
+title: "Dissenyar diàlegs i activitats comunicatives"
 parent: "Activitats · Bloc 1"
 grand_parent: "Bloc 1 · IA Col·laborativa i Gestió GVA"
 nav_order: 5
@@ -12,23 +12,23 @@ translation_key: bloque1-actividad-eoi
 {% include language-switcher.html %}
 
 
-# Seqüència comunicativa multinivell amb Copilot
+# Activitat · Dissenyar diàlegs i activitats comunicatives
 {: .fs-7 }
 
-Dissenya una activitat comunicativa multinivell amb ajuda de Copilot, adaptada a diferents perfils de l'alumnat d'EOI.
+Dissenya una activitat comunicativa multinivell amb ajuda de Copilot, adaptada a diferents perfils de l'alumnat de Secundària i Batxillerat.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objectiu
 
-Utilitzar Microsoft Copilot per a dissenyar una activitat o seqüència comunicativa multinivell per a una classe real de l'Escola Oficial d'Idiomes, amb tres itineraris de treball —suport, estàndard i ampliació— i amb bastiment lingüístic ajustat al [IDIOMA], al [NIVELL MCER], al perfil del grup i a l'activitat de llengua que es vol treballar.
+Utilitzar Microsoft Copilot per a dissenyar una activitat o seqüència comunicativa multinivell per a una classe real de Secundària o Batxillerat, amb tres itineraris de treball —suport, estàndard i ampliació— i amb bastiment lingüístic ajustat al [IDIOMA], al [NIVELL MCER], al perfil del grup i a l'activitat de llengua que es vol treballar.
 
 ---
 
 ## 🧠 Situació real d'aula
 
-Eres docent d'una Escola Oficial d'Idiomes i estàs preparant una unitat o seqüència breu per a un dels teus grups. Vols plantejar una activitat comunicativa útil, realista i aplicable, però el grup és heterogeni: una part de l'alumnat necessita més suport lingüístic i més guia pas a pas; una altra part pot seguir una proposta estàndard sense massa ajuda; i una altra necessita un repte addicional per a no quedar-se curta.
+Eres docent de Secundària o Batxillerat i estàs preparant una unitat o seqüència breu per a un dels teus grups. Vols plantejar una activitat comunicativa útil, realista i aplicable, però el grup és heterogeni: una part de l'alumnat necessita més suport lingüístic i més guia pas a pas; una altra part pot seguir una proposta estàndard sense massa ajuda; i una altra necessita un repte addicional per a no quedar-se curta.
 
 Necessites, per tant, una mateixa activitat amb tres itineraris d'accés i profunditat, que mantinga el mateix context comunicatiu, però que canvie el grau de suport, autonomia i complexitat. A més, vols que la proposta siga viable per a [TEMPS DISPONIBLE], que use la llengua amb un propòsit real i que no es convertisca en una tasca artificial o excessivament escolaritzada.
 
@@ -56,12 +56,12 @@ Dissenyar a mà una activitat així —amb input base, desenvolupament pas a pas
 
 ```text
 Actua com un/a especialista en didàctica de llengües en Escola Oficial 
-d'Idiomes (EOI), disseny de tasques comunicatives, atenció a la 
+d'Idiomes (Secundària i Batxillerat), disseny de tasques comunicatives, atenció a la 
 diversitat, bastiment lingüístic, adaptació multinivell i aplicació 
 del MCER/MCERL en grups reals d'alumnat jove i adult.
 
 Context:
-Soc docent d'[IDIOMA] en una Escola Oficial d'Idiomes de la 
+Soc docent d'[IDIOMA] en una Secundària i Batxillerat de la 
 Comunitat Valenciana. Impartisc un grup de nivell [NIVELL MCER]. Es tracta 
 de [TIPUS DE GRUP], format per [NOMBRE D'ESTUDIANTS] estudiants. El 
 grup presenta estes característiques: [PERFILS DEL GRUP]. Les 
@@ -76,12 +76,12 @@ activitat o seqüència breu centrada principalment en
 de treball és [MODALITAT: PRESENCIAL / SEMIPRESENCIAL].
 
 Tasca:
-Dissenya una proposta completament aplicable a l'aula d'EOI amb l'
+Dissenya una proposta completament aplicable a l'aula d'Secundària i Batxillerat amb l'
 estructura següent:
 
 1. **Títol de l'activitat**
    - Breu, clar, funcional i motivador.
-   - Adequat per a alumnat jove i adult d'EOI.
+   - Adequat per a alumnat jove i adult d'Secundària i Batxillerat.
 
 2. **Context comunicatiu**
    - Descriu una situació real o versemblant d'ús de la llengua.
@@ -147,13 +147,13 @@ estructura següent:
     - Usa text net, directe i llest per a apegar en Word.
     - Evita teoria innecessària.
     - Fes que la proposta siga aplicable demà mateix en una classe real 
-      d'EOI.
+      d'Secundària i Batxillerat.
 ```
 
 
 ## 🧪 Què has d'observar en la resposta
 
-- La situació és realista i rellevant per al context EOI?
+- La situació és realista i rellevant per al context Secundària i Batxillerat?
 - La seqüència permet la participació de tot l'alumnat, amb suports diferenciats?
 - S'integren comprensió, producció, interacció i mediació?
 - El bastiment lingüístic és suficient per als nivells més baixos?

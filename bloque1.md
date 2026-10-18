@@ -35,6 +35,7 @@ Duración aproximada: **8 horas**.
 
 - [🎯 Objetivos del bloque](#objetivos-del-bloque)
 - [🧭 Cómo trabajar este bloque](#cómo-trabajar-este-bloque)
+- [🗂️ Actividades del bloque](#actividades-del-bloque)
 - [🔄 Del Bloque 0 al Bloque 1: pedir mejor](#1-del-bloque-0-al-bloque-1-pedir-mejor)
 - [🧩 Una receta sencilla para construir peticiones útiles](#2-una-receta-sencilla-para-construir-peticiones-útiles)
 - [🎛️ El contexto cambia el resultado](#3-el-contexto-cambia-el-resultado)
@@ -78,6 +79,17 @@ Encontrarás tres tipos de contenido:
 **Uso seguro durante todo el bloque**  
 En las prácticas no introduzcas nombres reales, calificaciones, diagnósticos, situaciones familiares, actas confidenciales ni documentación interna no autorizada. Utiliza datos ficticios o correctamente anonimizados.  
 **Cuenta institucional ≠ permiso para introducir cualquier dato.**
+
+## Actividades del bloque
+{: id="actividades-del-bloque" }
+
+Las actividades del Bloque 1 están organizadas por tipo de necesidad docente, no por etapa educativa. Encontrarás propuestas para crear relatos o materiales visuales, adaptar materiales a diferentes niveles, diseñar tareas competenciales, construir simulaciones profesionales y preparar diálogos o actividades comunicativas.
+
+- [Crear un cuento o cómic educativo]({{ '/bloque1-actividad-infantil.html' | relative_url }})
+- [Adaptar materiales a distintos niveles]({{ '/bloque1-actividad-primaria.html' | relative_url }})
+- [Diseñar una actividad competencial y un recurso visual]({{ '/bloque1-actividad-secundaria.html' | relative_url }})
+- [Crear un caso práctico o simulación]({{ '/bloque1-actividad-fp.html' | relative_url }})
+- [Diseñar diálogos y actividades comunicativas]({{ '/bloque1-actividad-eoi.html' | relative_url }})
 
 ---
 
@@ -540,13 +552,13 @@ En el **Bloque 2 · Prompting avanzado y gestión documental** profundizaremos e
 
 Debes entregar **una única actividad individual**.
 
-La opción recomendada es realizar la actividad adaptada a tu etapa:
+La opción recomendada es realizar la actividad que mejor encaje con tu necesidad docente:
 
-- [Educación Infantil]({{ '/bloque1-actividad-infantil.html' | relative_url }})
-- [Educación Primaria]({{ '/bloque1-actividad-primaria.html' | relative_url }})
-- [Educación Secundaria]({{ '/bloque1-actividad-secundaria.html' | relative_url }})
-- [EOI]({{ '/bloque1-actividad-eoi.html' | relative_url }})
-- [Formación Profesional]({{ '/bloque1-actividad-fp.html' | relative_url }})
+- [Crear un cuento o cómic educativo]({{ '/bloque1-actividad-infantil.html' | relative_url }})
+- [Adaptar materiales a distintos niveles]({{ '/bloque1-actividad-primaria.html' | relative_url }})
+- [Diseñar una actividad competencial y un recurso visual]({{ '/bloque1-actividad-secundaria.html' | relative_url }})
+- [Crear un caso práctico o simulación]({{ '/bloque1-actividad-fp.html' | relative_url }})
+- [Diseñar diálogos y actividades comunicativas]({{ '/bloque1-actividad-eoi.html' | relative_url }})
 
 Si ninguna encaja con tu situación profesional, puedes utilizar como alternativa la **Práctica B** o la **Práctica C** de esta página.
 

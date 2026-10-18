@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · EOI"
+title: "Diseñar diálogos y actividades comunicativas"
 parent: "Actividades · Bloque 1"
 grand_parent: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 5
@@ -12,23 +12,23 @@ translation_key: bloque1-actividad-eoi
 {% include language-switcher.html %}
 
 
-# Secuencia comunicativa multinivel con Copilot
+# Actividad · Diseñar diálogos y actividades comunicativas
 {: .fs-7 }
 
-Diseña una actividad comunicativa multinivel con ayuda de Copilot, adaptada a distintos perfiles del alumnado de EOI.
+Diseña una actividad comunicativa multinivel con ayuda de Copilot, adaptada a distintos perfiles del alumnado de Secundaria y Bachillerato.
 {: .fs-5 .fw-300 }
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar Microsoft Copilot para diseñar una actividad o secuencia comunicativa multinivel para una clase real de la Escuela Oficial de Idiomas, con tres itinerarios de trabajo —apoyo, estándar y ampliación— y con andamiaje lingüístico ajustado al [IDIOMA], al [NIVEL MCER], al perfil del grupo y a la actividad de lengua que se quiere trabajar.
+Utilizar Microsoft Copilot para diseñar una actividad o secuencia comunicativa multinivel para una clase real de Secundaria o Bachillerato, con tres itinerarios de trabajo —apoyo, estándar y ampliación— y con andamiaje lingüístico ajustado al [IDIOMA], al [NIVEL MCER], al perfil del grupo y a la actividad de lengua que se quiere trabajar.
 
 ---
 
 ## 🧠 Situación real de aula
 
-Eres docente de una Escuela Oficial de Idiomas y estás preparando una unidad o secuencia breve para uno de tus grupos. Quieres plantear una actividad comunicativa útil, realista y aplicable, pero el grupo es heterogéneo: parte del alumnado necesita más apoyo lingüístico y más guía paso a paso; otra parte puede seguir una propuesta estándar sin demasiada ayuda; y otra necesita un reto adicional para no quedarse corta.
+Eres docente de Secundaria o Bachillerato y estás preparando una unidad o secuencia breve para uno de tus grupos. Quieres plantear una actividad comunicativa útil, realista y aplicable, pero el grupo es heterogéneo: parte del alumnado necesita más apoyo lingüístico y más guía paso a paso; otra parte puede seguir una propuesta estándar sin demasiada ayuda; y otra necesita un reto adicional para no quedarse corta.
 
 Necesitas, por tanto, una misma actividad con tres itinerarios de acceso y profundidad, que mantenga el mismo contexto comunicativo, pero cambie el grado de apoyo, autonomía y complejidad. Además, quieres que la propuesta sea viable para [TIEMPO DISPONIBLE], que use la lengua con un propósito real y que no se convierta en una tarea artificial o excesivamente escolarizada.
 
@@ -56,12 +56,12 @@ Diseñar a mano una actividad así —con input base, desarrollo paso a paso, ap
 
 ```text
 Actúa como un/a especialista en didáctica de lenguas en Escuela Oficial 
-de Idiomas (EOI), diseño de tareas comunicativas, atención a la 
+de Idiomas (Secundaria y Bachillerato), diseño de tareas comunicativas, atención a la 
 diversidad, andamiaje lingüístico, adaptación multinivel y aplicación 
 del MCER/MCERL en grupos reales de alumnado joven y adulto.
 
 Contexto:
-Soy docente de [IDIOMA] en una Escuela Oficial de Idiomas de la 
+Soy docente de [IDIOMA] en una Secundaria y Bachillerato de la 
 Comunitat Valenciana. Imparto un grupo de nivel [NIVEL MCER]. Se trata 
 de [TIPO DE GRUPO], formado por [NÚMERO DE ESTUDIANTES] estudiantes. El 
 grupo presenta estas características: [PERFILES DEL GRUPO]. Las 
@@ -76,12 +76,12 @@ actividad o secuencia breve centrada principalmente en
 de trabajo es [MODALIDAD: PRESENCIAL / SEMIPRESENCIAL].
 
 Tarea:
-Diseña una propuesta completamente aplicable en el aula de EOI con la 
+Diseña una propuesta completamente aplicable en el aula de Secundaria y Bachillerato con la 
 siguiente estructura:
 
 1. **Título de la actividad**
    - Breve, claro, funcional y motivador.
-   - Adecuado para alumnado joven y adulto de EOI.
+   - Adecuado para alumnado joven y adulto de Secundaria y Bachillerato.
 
 2. **Contexto comunicativo**
    - Describe una situación real o verosímil de uso de la lengua.
@@ -147,13 +147,13 @@ siguiente estructura:
     - Usa texto limpio, directo y listo para pegar en Word.
     - Evita teoría innecesaria.
     - Haz que la propuesta sea aplicable mañana mismo en una clase real 
-      de EOI.
+      de Secundaria y Bachillerato.
 ```
 
 
 ## 🧪 Qué debes observar en la respuesta
 
-- ¿La situación es realista y relevante para el contexto EOI?
+- ¿La situación es realista y relevante para el contexto Secundaria y Bachillerato?
 - ¿La secuencia permite la participación de todo el alumnado, con apoyos diferenciados?
 - ¿Se integran comprensión, producción, interacción y mediación?
 - ¿El andamiaje lingüístico es suficiente para los niveles más bajos?

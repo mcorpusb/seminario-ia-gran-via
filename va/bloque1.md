@@ -35,6 +35,7 @@ Duració aproximada: **8 hores**.
 
 - [🎯 Objectius del bloc](#objectius-del-bloc)
 - [🧭 Com treballar este bloc](#com-treballar-este-bloc)
+- [🗂️ Activitats del bloc](#activitats-del-bloc)
 - [🔄 Del Bloc 0 al Bloc 1: demanar millor](#1-del-bloc-0-al-bloc-1-demanar-millor)
 - [🧩 Una recepta senzilla per a construir peticions útils](#2-una-recepta-senzilla-per-a-construir-peticions-utils)
 - [🎛️ El context canvia el resultat](#3-el-context-canvia-el-resultat)
@@ -78,6 +79,17 @@ Hi trobaràs tres tipus de contingut:
 **Ús segur durant tot el bloc**  
 En les pràctiques no introduïsques noms reals, qualificacions, diagnòstics, situacions familiars, actes confidencials ni documentació interna no autoritzada. Utilitza dades fictícies o correctament anonimitzades.  
 **Compte institucional ≠ permís per a introduir qualsevol dada.**
+
+## Activitats del bloc
+{: id="activitats-del-bloc" }
+
+Les activitats del Bloc 1 estan organitzades per tipus de necessitat docent, no per etapa educativa. Hi trobaràs propostes per a crear relats o recursos visuals, adaptar materials a diferents nivells, dissenyar tasques competencials, construir simulacions professionals i preparar diàlegs o activitats comunicatives.
+
+- [Crear un conte o còmic educatiu]({{ '/va/bloque1-actividad-infantil.html' | relative_url }})
+- [Adaptar materials a diferents nivells]({{ '/va/bloque1-actividad-primaria.html' | relative_url }})
+- [Dissenyar una activitat competencial i un recurs visual]({{ '/va/bloque1-actividad-secundaria.html' | relative_url }})
+- [Crear un cas pràctic o simulació]({{ '/va/bloque1-actividad-fp.html' | relative_url }})
+- [Dissenyar diàlegs i activitats comunicatives]({{ '/va/bloque1-actividad-eoi.html' | relative_url }})
 
 ---
 
@@ -540,13 +552,13 @@ En el **Bloc 2 · Prompting avançat i gestió documental** aprofundirem en el t
 
 Has d'entregar **una única activitat individual**.
 
-L'opció recomanada és fer l'activitat adaptada a la teua etapa:
+L'opció recomanada és fer l'activitat que millor encaixe amb la teua necessitat docent:
 
-- [Educació Infantil]({{ '/va/bloque1-actividad-infantil.html' | relative_url }})
-- [Educació Primària]({{ '/va/bloque1-actividad-primaria.html' | relative_url }})
-- [Educació Secundària]({{ '/va/bloque1-actividad-secundaria.html' | relative_url }})
-- [EOI]({{ '/va/bloque1-actividad-eoi.html' | relative_url }})
-- [Formació Professional]({{ '/va/bloque1-actividad-fp.html' | relative_url }})
+- [Crear un conte o còmic educatiu]({{ '/va/bloque1-actividad-infantil.html' | relative_url }})
+- [Adaptar materials a diferents nivells]({{ '/va/bloque1-actividad-primaria.html' | relative_url }})
+- [Dissenyar una activitat competencial i un recurs visual]({{ '/va/bloque1-actividad-secundaria.html' | relative_url }})
+- [Crear un cas pràctic o simulació]({{ '/va/bloque1-actividad-fp.html' | relative_url }})
+- [Dissenyar diàlegs i activitats comunicatives]({{ '/va/bloque1-actividad-eoi.html' | relative_url }})
 
 Si cap no encaixa amb la teua situació professional, pots utilitzar com a alternativa la **Pràctica B** o la **Pràctica C** d'esta pàgina.
 

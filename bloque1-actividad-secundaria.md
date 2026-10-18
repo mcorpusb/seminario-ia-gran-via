@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actividad · Secundaria"
+title: "Diseñar una actividad competencial y un recurso visual"
 parent: "Actividades · Bloque 1"
 grand_parent: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 3
@@ -12,7 +12,7 @@ translation_key: bloque1-actividad-secundaria
 {% include language-switcher.html %}
 
 
-# Actividad · Educación Secundaria
+# Actividad · Diseñar una actividad competencial y un recurso visual
 {: .fs-7 }
 
 Diseña una actividad competencial contextualizada y transfórmala en un recurso visual claro para tu alumnado, con ayuda de Copilot.
