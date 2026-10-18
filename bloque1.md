@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bloque 1 · IA Colaborativa y Gestión GVA"
-nav_order: 4
+nav_order: 3
 has_children: true
 lang: es
 translation_key: bloque1
@@ -562,7 +562,7 @@ La entrega incluirá:
 
 ---
 
-[Continuar con el Bloque 2 →]({{ '/bloque2.html' | relative_url }})
+Continuar con el Bloque 2 →
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso 26IA92IN041 · 2.ª edición de 2026 · CEFIRE de Inteligencia Artificial y Pensamiento Computacional<br>

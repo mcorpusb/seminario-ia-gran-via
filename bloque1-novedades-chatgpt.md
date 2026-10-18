@@ -49,7 +49,7 @@ Study Mode puede ayudar a aprender mejor, pero no convierte a ChatGPT en un prof
 
 ChatGPT también puede apoyar la investigación con fuentes y la búsqueda asistida. Cuando uses funciones de investigación profunda, recuerda el principio del Bloque 2: la herramienta no garantiza por sí sola que la investigación sea correcta. Revisa siempre fuentes, autoridad, actualidad y correspondencia entre cita y afirmación.
 
-- [Investigación y verificación con IA]({{ '/bloque2-investigacion-verificacion.html' | relative_url }})
+- Investigación y verificación con IA
 
 ## 4. Generación y edición de imágenes
 
@@ -59,7 +59,7 @@ ChatGPT puede generar y editar imágenes, pero este bloque solo resume su utilid
 - Crear portadas, carteles o escenas sencillas.
 - Adaptar materiales visuales al nivel del alumnado.
 
-- [Generación multimodal y recursos visuales]({{ '/bloque3.html' | relative_url }})
+- Generación multimodal y recursos visuales
 
 ## 5. Plugins y Skills
 

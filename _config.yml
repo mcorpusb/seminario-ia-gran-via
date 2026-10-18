@@ -1,9 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
-title: "IA para Docentes · CEFIRE"
-description: "Curso práctico del CEFIRE sobre IA, LOMLOE y productividad en el entorno GVA."
+title: "Seminario de Inteligencia Artificial · IES Gran Vía"
+description: "Materiales y actividades del seminario de inteligencia artificial para docentes del IES Gran Vía."
 
 url: "https://mcorpusb.github.io"
-baseurl: "/curso-ia-cefire-V2"
+baseurl: "/seminario-ia-gran-via"
 
 # Configuración de navegación
 nav_enabled: true
