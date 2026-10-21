@@ -83,13 +83,9 @@ En las prácticas no introduzcas nombres reales, calificaciones, diagnósticos, 
 ## Actividades del bloque
 {: id="actividades-del-bloque" }
 
-Las actividades del Bloque 1 están organizadas por tipo de necesidad docente, no por etapa educativa. Encontrarás propuestas para crear relatos o materiales visuales, adaptar materiales a diferentes niveles, diseñar tareas competenciales, construir simulaciones profesionales y preparar diálogos o actividades comunicativas.
+El **Laboratorio de prompts** ofrece diez retos vinculados a las especialidades del seminario: Edificación y Obra Civil, Integración Social, Matemáticas, Tecnología, Geografía e Historia, Lengua Castellana, Música, Religión y valores, Orientación y PT, y una propuesta transversal de Educación Física. **Elige uno; explorar más es voluntario.** En 15–20 minutos compararás una petición inicial con un prompt pedagógico, iterarás y tomarás una decisión docente.
 
-- [Crear un cuento o cómic educativo]({{ '/bloque1-actividad-infantil.html' | relative_url }})
-- [Adaptar materiales a distintos niveles]({{ '/bloque1-actividad-primaria.html' | relative_url }})
-- [Diseñar una actividad competencial y un recurso visual]({{ '/bloque1-actividad-secundaria.html' | relative_url }})
-- [Crear un caso práctico o simulación]({{ '/bloque1-actividad-fp.html' | relative_url }})
-- [Diseñar diálogos y actividades comunicativas]({{ '/bloque1-actividad-eoi.html' | relative_url }})
+[Elige uno de los diez retos del laboratorio]({{ '/bloque1-actividades.html' | relative_url }})
 
 ---
 
@@ -115,17 +111,17 @@ La calidad del resultado no depende únicamente del modelo utilizado. También i
 
 Partimos de esta petición:
 
-> **Diseña una actividad sobre redes.**
+> **Prepara ejercicios de porcentajes.**
 
 Es comprensible, pero deja muchas decisiones en manos de la herramienta.
 
 Podemos mejorarla:
 
-> Diseña una actividad de una hora sobre introducción a las redes para alumnado de 1.º de ASIR.
+> Prepara una actividad de 30 minutos para 3.º de ESO para comparar tres ofertas ficticias de un teléfono móvil.
 
 Y todavía podemos contextualizarla más:
 
-> Eres docente de Formación Profesional. Diseña una actividad de una hora sobre introducción a las redes para alumnado de 1.º de ASIR. Incluye objetivos, metodología activa, recursos necesarios, producto final y una propuesta sencilla de evaluación. Preséntala en una tabla.
+> Actúa como docente de Matemáticas. Prepara una actividad de 30 minutos para 3.º de ESO en la que se comparen tres ofertas ficticias de un teléfono móvil. El objetivo es calcular descuentos sucesivos y justificar una elección. Prevé tres niveles de dificultad y trabajo en parejas con calculadora. Presenta una tabla de ofertas y separa las soluciones razonadas para el profesorado, con cálculos comprobables.
 
 La necesidad es la misma.
 
@@ -144,13 +140,15 @@ Una buena petición depende siempre de la necesidad, el contexto y del resultado
 
 No necesitas memorizar una fórmula rígida.
 
+En el laboratorio usarás cinco elementos: **contexto educativo, alumnado destinatario, objetivo de aprendizaje, restricciones y condiciones, y formato de salida**. La receta siguiente te ayuda a concretarlos.
+
 Cuando una respuesta no se ajusta a lo que necesitas, comprueba si has explicado suficientemente estos elementos:
 
 ### Necesidad
 
 **¿Qué problema quieres resolver?**
 
-Ejemplo: necesito preparar una primera actividad para introducir el concepto de redes.
+Ejemplo: necesito que el alumnado compare descuentos y justifique qué oferta conviene.
 
 ### Contexto
 
@@ -194,13 +192,20 @@ La herramienta no conoce tu aula, tu alumnado ni tu objetivo si no se lo explica
 
 No es lo mismo pedir:
 
-> Crea una actividad sobre redes.
+> Prepara un caso sobre materiales y aislamiento.
 
 que indicar:
 
-> La actividad es para alumnado de 1.º de ASIR, debe durar una hora, servir como introducción al tema, partir de conocimientos muy básicos y terminar con un pequeño producto en parejas.
+> El caso es para FP de Edificación y Obra Civil. En 50 minutos, el alumnado comparará dos soluciones de aislamiento de una vivienda ficticia. Usa datos técnicos simplificados con unidades y un presupuesto ficticio. Presenta una tabla comparativa y señala qué debe verificarse en fichas técnicas y fuentes oficiales.
 
 La segunda petición reduce parte de las suposiciones que debe realizar la IA.
+
+Puedes practicarlo en el [reto de la vivienda sostenible]({{ '/bloque1-actividad-edificacion.html' | relative_url }}).
+
+Otros contextos que cambian el resultado:
+
+- **Tecnología:** «Diseña un riego automatizado para 3.º de ESO con sensor de humedad y una alternativa con maqueta si faltan componentes».
+- **Orientación y PT:** «Propón tres formas accesibles de trabajar una lectura de 1.º de ESO, con necesidades ficticias y el mismo objetivo de comprensión».
 
 {: .callout .callout--reflexion }
 **Recuerda el Bloque 0:**  
@@ -466,7 +471,7 @@ No utilices este tipo de actividad para delegar decisiones sobre distribución d
 
 Estas propuestas sirven para experimentar.
 
-**No requieren entrega**, salvo que elijas la Práctica B o C como ruta alternativa a la actividad de tu etapa.
+**No requieren entrega**, salvo que elijas la Práctica B o C como ruta alternativa al reto que has elegido del laboratorio.
 
 ### Práctica A · Mejora una petición
 
@@ -554,11 +559,7 @@ Debes entregar **una única actividad individual**.
 
 La opción recomendada es realizar la actividad que mejor encaje con tu necesidad docente:
 
-- [Crear un cuento o cómic educativo]({{ '/bloque1-actividad-infantil.html' | relative_url }})
-- [Adaptar materiales a distintos niveles]({{ '/bloque1-actividad-primaria.html' | relative_url }})
-- [Diseñar una actividad competencial y un recurso visual]({{ '/bloque1-actividad-secundaria.html' | relative_url }})
-- [Crear un caso práctico o simulación]({{ '/bloque1-actividad-fp.html' | relative_url }})
-- [Diseñar diálogos y actividades comunicativas]({{ '/bloque1-actividad-eoi.html' | relative_url }})
+[Elige uno de los diez retos del laboratorio]({{ '/bloque1-actividades.html' | relative_url }})
 
 Si ninguna encaja con tu situación profesional, puedes utilizar como alternativa la **Práctica B** o la **Práctica C** de esta página.
 

@@ -1,0 +1,17 @@
+{% comment %}Keep one native Just the Docs tree; localize the Block 1 links on its Valencian pages.{% endcomment %}
+{% if page.lang == 'va' and page.translation_key contains 'bloque1' %}
+<script>
+window.__promptLabTranslations = [
+{% assign lab_spanish_pages = site.pages | where: 'lang', 'es' %}
+{% for original in lab_spanish_pages %}
+  {% if original.translation_key contains 'bloque1' %}
+    {% assign translated = site.pages | where: 'translation_key', original.translation_key | where: 'lang', 'va' | first %}
+    {% if translated %}
+      { from: {{ original.url | relative_url | jsonify }}, to: {{ translated.url | relative_url | jsonify }}, title: {{ translated.title | jsonify }} },
+    {% endif %}
+  {% endif %}
+{% endfor %}
+];
+</script>
+<script defer src="{{ '/assets/js/prompt-lab-nav.js' | relative_url }}"></script>
+{% endif %}

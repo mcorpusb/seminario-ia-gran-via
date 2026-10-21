@@ -83,13 +83,9 @@ En les pràctiques no introduïsques noms reals, qualificacions, diagnòstics, s
 ## Activitats del bloc
 {: id="activitats-del-bloc" }
 
-Les activitats del Bloc 1 estan organitzades per tipus de necessitat docent, no per etapa educativa. Hi trobaràs propostes per a crear relats o recursos visuals, adaptar materials a diferents nivells, dissenyar tasques competencials, construir simulacions professionals i preparar diàlegs o activitats comunicatives.
+El **Laboratori de prompts** oferix deu reptes vinculats a les especialitats del seminari: Edificació i Obra Civil, Integració Social, Matemàtiques, Tecnologia, Geografia i Història, Llengua Castellana, Música, Religió i valors, Orientació i PT, i una proposta transversal d’Educació Física. **Tria’n un; explorar-ne més és voluntari.** En 15–20 minuts compararàs una petició inicial amb un prompt pedagògic, iteraràs i prendràs una decisió docent.
 
-- [Crear un conte o còmic educatiu]({{ '/va/bloque1-actividad-infantil.html' | relative_url }})
-- [Adaptar materials a diferents nivells]({{ '/va/bloque1-actividad-primaria.html' | relative_url }})
-- [Dissenyar una activitat competencial i un recurs visual]({{ '/va/bloque1-actividad-secundaria.html' | relative_url }})
-- [Crear un cas pràctic o simulació]({{ '/va/bloque1-actividad-fp.html' | relative_url }})
-- [Dissenyar diàlegs i activitats comunicatives]({{ '/va/bloque1-actividad-eoi.html' | relative_url }})
+[Tria un dels deu reptes del laboratori]({{ '/va/bloque1-actividades.html' | relative_url }})
 
 ---
 
@@ -115,17 +111,17 @@ La qualitat del resultat no depén únicament del model utilitzat. També hi inf
 
 Partim d'esta petició:
 
-> **Dissenya una activitat sobre xarxes.**
+> **Prepara exercicis de percentatges.**
 
 És comprensible, però deixa moltes decisions en mans de la ferramenta.
 
 Podem millorar-la:
 
-> Dissenya una activitat d'una hora sobre introducció a les xarxes per a alumnat de 1r d'ASIR.
+> Prepara una activitat de 30 minuts per a 3r d’ESO per a comparar tres ofertes fictícies d’un telèfon mòbil.
 
 I encara podem contextualitzar-la més:
 
-> Eres docent de Formació Professional. Dissenya una activitat d'una hora sobre introducció a les xarxes per a alumnat de 1r d'ASIR. Inclou objectius, metodologia activa, recursos necessaris, producte final i una proposta senzilla d'avaluació. Presenta-la en una taula.
+> Actua com a docent de Matemàtiques. Prepara una activitat de 30 minuts per a 3r d’ESO en què es comparen tres ofertes fictícies d’un telèfon mòbil. L’objectiu és calcular descomptes successius i justificar una elecció. Preveu tres nivells de dificultat i treball en parelles amb calculadora. Presenta una taula d’ofertes i separa les solucions raonades per al professorat, amb càlculs comprovables.
 
 La necessitat és la mateixa.
 
@@ -144,13 +140,15 @@ Una bona petició depén sempre de la necessitat, del context i del resultat que
 
 No necessites memoritzar una fórmula rígida.
 
+En el laboratori usaràs cinc elements: **context educatiu, alumnat destinatari, objectiu d’aprenentatge, restriccions i condicions, i format d’eixida**. La recepta següent t’ajuda a concretar-los.
+
 Quan una resposta no s'ajusta al que necessites, comprova si has explicat prou estos elements:
 
 ### Necessitat
 
 **Quin problema vols resoldre?**
 
-Exemple: necessite preparar una primera activitat per a introduir el concepte de xarxes.
+Exemple: necessite que l’alumnat compare descomptes i justifique quina oferta convé.
 
 ### Context
 
@@ -194,13 +192,20 @@ La ferramenta no coneix la teua aula, el teu alumnat ni el teu objectiu si no l'
 
 No és el mateix demanar:
 
-> Crea una activitat sobre xarxes.
+> Prepara un cas sobre materials i aïllament.
 
 que indicar:
 
-> L'activitat és per a alumnat de 1r d'ASIR, ha de durar una hora, servir com a introducció al tema, partir de coneixements molt bàsics i acabar amb un xicotet producte en parelles.
+> El cas és per a FP d’Edificació i Obra Civil. En 50 minuts, l’alumnat compararà dues solucions d’aïllament d’una vivenda fictícia. Usa dades tècniques simplificades amb unitats i un pressupost fictici. Presenta una taula comparativa i assenyala què cal verificar en fitxes tècniques i fonts oficials.
 
 La segona petició reduïx part de les suposicions que ha de fer la IA.
+
+Pots practicar-ho en el [repte de la vivenda sostenible]({{ '/va/bloque1-actividad-edificacion.html' | relative_url }}).
+
+Altres contextos que canvien el resultat:
+
+- **Tecnologia:** «Dissenya un reg automatitzat per a 3r d’ESO amb sensor d’humitat i una alternativa amb maqueta si falten components».
+- **Orientació i PT:** «Proposa tres formes accessibles de treballar una lectura de 1r d’ESO, amb necessitats fictícies i el mateix objectiu de comprensió».
 
 {: .callout .callout--reflexion }
 **Recorda el Bloc 0:**  
@@ -466,7 +471,7 @@ No utilitzes este tipus d'activitat per a delegar decisions sobre distribució d
 
 Estes propostes servixen per a experimentar.
 
-**No requerixen lliurament**, llevat que tries la Pràctica B o C com a ruta alternativa a l'activitat de la teua etapa.
+**No requerixen lliurament**, llevat que tries la Pràctica B o C com a ruta alternativa al repte que has triat del laboratori.
 
 ### Pràctica A · Millora una petició
 
@@ -554,11 +559,7 @@ Has d'entregar **una única activitat individual**.
 
 L'opció recomanada és fer l'activitat que millor encaixe amb la teua necessitat docent:
 
-- [Crear un conte o còmic educatiu]({{ '/va/bloque1-actividad-infantil.html' | relative_url }})
-- [Adaptar materials a diferents nivells]({{ '/va/bloque1-actividad-primaria.html' | relative_url }})
-- [Dissenyar una activitat competencial i un recurs visual]({{ '/va/bloque1-actividad-secundaria.html' | relative_url }})
-- [Crear un cas pràctic o simulació]({{ '/va/bloque1-actividad-fp.html' | relative_url }})
-- [Dissenyar diàlegs i activitats comunicatives]({{ '/va/bloque1-actividad-eoi.html' | relative_url }})
+[Tria un dels deu reptes del laboratori]({{ '/va/bloque1-actividades.html' | relative_url }})
 
 Si cap no encaixa amb la teua situació professional, pots utilitzar com a alternativa la **Pràctica B** o la **Pràctica C** d'esta pàgina.
 

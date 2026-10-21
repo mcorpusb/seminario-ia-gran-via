@@ -1021,3 +1021,34 @@
   th:first-child, td:first-child { background: #eef4fb; color: #243d55; }
   th:last-child, td:last-child { background: #fef5ec; color: #663b19; }
 }
+
+/* Laboratorio de prompts: reutiliza tarjetas y bloques existentes. */
+.prompt-lab-catalog {
+  grid-template-columns: repeat(auto-fit, minmax(Min(100%, 240px), 1fr));
+}
+.main-content .prompt-lab-catalog h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+.prompt-lab-catalog .resource-card__desc { margin-bottom: 0; }
+.prompt-lab-privacy {
+  background: #fafbfc;
+  border-color: #667085;
+  font-size: 0.93rem;
+}
+.prompt-lab-copy { margin: 1rem 0 1.5rem; }
+.prompt-lab-copy .prompt-bloque {
+  max-height: none;
+  overflow-wrap: anywhere;
+  font-family: inherit;
+  font-size: 0.95rem;
+}
+.prompt-lab-copy__button { margin: 0 0.5rem 0.35rem 0; }
+.prompt-lab-copy__button[hidden] { display: none; }
+.prompt-lab-copy__status { font-size: 0.85rem; }
+.prompt-lab-copy :focus-visible,
+.prompt-lab-catalog a:focus-visible { outline: 2px solid #4a306a; outline-offset: 3px; }
+@media print {
+  .prompt-lab-copy__button, .prompt-lab-copy__status { display: none; }
+}

@@ -1,289 +1,51 @@
 ---
 layout: page
 title: "Adaptar materiales a distintos niveles"
-parent: "Actividades · Bloque 1"
+parent: "Laboratorio de prompts · Elige tu reto docente"
 grand_parent: "Bloque 1 · IA Colaborativa y Gestión GVA"
 nav_order: 2
-nav_exclude: false
+nav_exclude: true
 lang: es
 translation_key: bloque1-actividad-primaria
+search_exclude: true
 ---
 
 {% include language-switcher.html %}
 
-# Actividad · Adaptar materiales a distintos niveles
+# Esta actividad se ha actualizado
 {: .fs-7 }
 
-Diseña materiales multinivel para atender la diversidad de tu grupo de ESO o Bachillerato, con ayuda de Copilot.
-{: .fs-5 .fw-300 }
-
----
-
-## 🎯 Objetivo
-
-Utilizar Microsoft Copilot para crear materiales con tres niveles de dificultad a partir de un mismo contenido, listos para imprimir y usar en el aula al día siguiente.
-
----
-
-## 🧠 Situación real de aula
-
-Eres tutor/a o profesor/a de un grupo de ESO o Bachillerato. Tienes un grupo heterogéneo con niveles muy diferentes de comprensión y autonomía:
-
-- Un grupo avanzado que necesita actividades de mayor exigencia.
-- Un grupo que sigue el nivel ordinario del curso.
-- Varios alumnos/as con necesidades de apoyo que requieren textos más sencillos, andamiaje y preguntas más guiadas.
-
-Preparar tres versiones del mismo material te llevaría toda la tarde. Con Copilot puedes generar las tres versiones en menos de 20 minutos, revisarlas y tenerlas listas para imprimir.
-
----
-
-## ⚙️ Qué vas a hacer
-
-- Accede a **Microsoft Copilot** con tu cuenta `@edu.gva.es` y comprueba que aparece la insignia **"Protegido"**.
-- Elige un tema de trabajo real de tu programación actual (un texto narrativo, expositivo o informativo que tengas previsto trabajar esta semana).
-- Decide los tres niveles de dificultad que necesitas para tu grupo concreto.
-- Completa el prompt con los datos de tu asignatura, nivel y tema.
-- Lanza el prompt en Copilot y revisa la ficha generada.
-- Comprueba que las preguntas de cada nivel son realmente diferentes en exigencia cognitiva (no solo en extensión).
-- Usa las instrucciones de iteración para ajustar lo que necesites.
-- Copia el resultado en un documento Word, dale formato para imprimir y guárdalo en tu OneDrive.
-
----
-
-## 💬 Prompt listo para usar
-
-### Prompt 1 — Material multinivel
-
-```text
-Actúa como un profesor/a de Secundaria o Bachillerato especialista en atención a la diversidad y diseño universal para el aprendizaje (DUA).
-
-Contexto: Soy docente de [CURSO: 1.º/2.º/3.º/4.º ESO o 1.º/2.º Bachillerato] en un IES público de la Comunitat Valenciana. Tengo [NÚMERO] alumnos/as con tres niveles de comprensión y autonomía claramente diferenciados. Esta semana trabajo [TEMA O CONTENIDO: ej. "un poema", "un texto de Historia", "un artículo de opinión", "una noticia adaptada"…] en el área de [ASIGNATURA: Lengua, Historia, Valenciano, Biología, Orientación…].
-
-Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
-
-1. **Texto base** (150-200 palabras), adecuado para [CURSO] y relacionado con [TEMA].
-2. **Nivel 1 — Apoyo** (alumnado con necesidad de apoyo):
-   - 4 preguntas de localización directa (la respuesta está explícita en el texto).
-   - Vocabulario sencillo, frases cortas.
-   - Incluir un ejemplo resuelto como modelo.
-3. **Nivel 2 — Estándar** (grupo ordinario):
-   - 4 preguntas de comprensión inferencial (deducir, interpretar, relacionar).
-   - 1 pregunta de opinión personal breve.
-4. **Nivel 3 — Ampliación** (alumnado avanzado):
-   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
-   - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
-
-Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
-```
-
----
-
-### Ejemplo de prompt ya completado
-
-```text
-Actúa como un profesor/a de Secundaria o Bachillerato especialista en atención a la diversidad y diseño universal para el aprendizaje (DUA).
-
-Contexto: Soy tutor/a de 4.º de Primaria en un colegio público de la Comunitat Valenciana. Tengo 24 alumnos/as con tres niveles de comprensión lectora claramente diferenciados. Esta semana trabajo un texto narrativo-informativo sobre una salida a una marjal valenciana en el área de Lengua Castellana.
-
-Tarea: Diseña una ficha de comprensión lectora con la siguiente estructura:
-
-1. **Texto base** (150-200 palabras), adecuado para 4.º y relacionado con una salida a la marjal.
-2. **Nivel 1 — Apoyo** (alumnado con necesidad de apoyo):
-   - 4 preguntas de localización directa (la respuesta está explícita en el texto).
-   - Vocabulario sencillo, frases cortas.
-   - Incluir un ejemplo resuelto como modelo.
-3. **Nivel 2 — Estándar** (grupo ordinario):
-   - 4 preguntas de comprensión inferencial (deducir, interpretar, relacionar).
-   - 1 pregunta de opinión personal breve.
-4. **Nivel 3 — Ampliación** (alumnado avanzado):
-   - 3 preguntas de pensamiento crítico (valorar, argumentar, comparar con otros textos o situaciones).
-   - 1 actividad creativa breve (ej.: reescribir el final, crear un título alternativo, escribir una carta al personaje).
-
-Formato: texto plano estructurado con encabezados claros para cada nivel, listo para pegar en Word y dar formato de ficha imprimible. Incluye un recuadro con el nombre del alumno/a y la fecha al inicio.
-```
-
----
-
-### Ejemplo de respuesta de Copilot
-
-**Material multinivel — 2.º de ESO**
-
-**Nombre:** ____________________________   **Fecha:** _______________
-
----
-
-#### Texto base
-
-El pasado jueves, la clase de 4.º de Primaria visitó la marjal de Almenara, un humedal muy especial de la Comunitat Valenciana. Salimos temprano del colegio y, tras un corto viaje en autobús, llegamos rodeados de campos verdes y agua por todas partes. Un guía nos explicó que la marjal es el hogar de muchas aves, como garzas, patos y fochas, y que es muy importante cuidar estos espacios naturales.
-
-Durante el paseo, observamos plantas acuáticas, escuchamos el canto de los pájaros y vimos cómo algunos agricultores trabajaban en los arrozales. Al final, hicimos un pequeño dibujo de lo que más nos había gustado y compartimos nuestras impresiones en grupo. Fue una experiencia divertida y aprendimos mucho sobre la naturaleza cercana a nuestro pueblo.
-
----
-
-#### Nivel 1 — Apoyo
-
-- ¿A dónde fue la clase de 4.º de Primaria?
-- ¿Cómo llegaron hasta la marjal?
-- ¿Qué animales viven en la marjal?
-- ¿Qué actividad hicieron al final de la visita?
-
-**Ejemplo resuelto:**
-
-Pregunta: ¿Qué plantas observaron durante el paseo?
-Respuesta: Plantas acuáticas.
-
----
-
-#### Nivel 2 — Estándar
-
-- ¿Por qué crees que es importante cuidar la marjal?
-- ¿Qué aprendiste sobre los agricultores que trabajan en los arrozales?
-- ¿Cómo se sintieron los alumnos/as durante la visita? Explica tu respuesta.
-- ¿Qué relación hay entre las aves y el agua de la marjal?
-- ¿Qué te ha parecido la experiencia de visitar un espacio natural?
-
----
-
-#### Nivel 3 — Ampliación
-
-- Compara la marjal con otro espacio natural que conozcas. ¿En qué se parecen y en qué se diferencian?
-- ¿Qué pasaría si no cuidáramos los humedales como la marjal?
-- ¿Cómo podrías explicar a un compañero/a más pequeño por qué es importante proteger estos lugares?
-- Inventa un final alternativo para la visita y descríbelo brevemente.
-
----
-
-### Mejora del resultado
-
-Si el resultado inicial te convence, puedes pedir a Copilot que te ayude a transformarlo en un recurso más visual y atractivo para el alumnado.
-
-Por ejemplo, puedes solicitar un **prompt maestro** para convertir el texto base en un cuento visual o cómic educativo.
-
----
-
-### Ejemplo de prompt maestro para cuento visual
-
-```text
-Actúa como ilustrador/a educativo y diseñador/a de materiales didácticos para Primaria.
-
-Vas a transformar el texto base de una ficha de comprensión lectora sobre una salida a la marjal valenciana (alumnado de 4.º de Primaria) en un **cuento visual o cómic educativo** de 8 viñetas.
-
-Para cada viñeta, incluye:
-- Descripción visual detallada de la escena (personajes, entorno, acción principal).
-- Texto breve y claro para el alumnado.
-- Coherencia entre personajes y escenarios a lo largo de la historia.
-
-Estilo visual:
-- Amable, colorido y claro, sin recargar.
-- Apropiado para niños y niñas de 8–10 años.
-- Expresiones faciales claras y composición limpia.
-- Si hay texto integrado, usa tipografía grande y legible.
-
-Finaliza el cuento visual con una pregunta de reflexión para la clase.
-```
-
----
-
-### Cómo usar el prompt maestro en Copilot Create o Designer
-
-Ve a la opción de **Crear** y pega el prompt que te ha dado Copilot.
-
-También puedes seleccionar **Designer** en la parte inferior si quieres obtener un resultado más visual.
-
-Revisa siempre que las imágenes sean adecuadas para la edad y coherentes con el texto trabajado.
-
----
-
-### Ejemplo de cuento visual generado
-
-*Aquí puedes insertar la captura del cuento visual generado en Copilot para mostrar un ejemplo real de resultado.*
-
----
-
-
-## 🧪 Qué debes observar en la respuesta
-
-- **Texto base:**
-  - ¿Es comprensible para el curso elegido?
-  - ¿El tema es coherente con tu programación?
-  - ¿La extensión permite trabajarlo en una sesión de 45 minutos?
-
-- **Nivel 1 (Apoyo):**
-  - ¿Las preguntas son realmente de localización directa?
-  - ¿El ejemplo resuelto ayuda a entender qué se pide?
-  - ¿El vocabulario es accesible para alumnado con desfase curricular?
-
-- **Nivel 2 (Estándar):**
-  - ¿Las preguntas exigen realmente inferencia o son demasiado literales?
-  - ¿La pregunta de opinión está bien formulada para la edad?
-
-- **Nivel 3 (Ampliación):**
-  - ¿Las preguntas de pensamiento crítico son estimulantes?
-  - ¿La actividad creativa es viable en el tiempo disponible?
-
----
-
-
-## 🔄 Iteración guiada
-
-Después de revisar la primera versión, prueba estas instrucciones en la misma conversación:
-
-```text
-Las preguntas del Nivel 1 siguen siendo demasiado difíciles para mi 
-alumnado con NEAE. Simplifica más el lenguaje y añade pistas entre 
-paréntesis después de cada pregunta para guiar la respuesta.
-```
-
-```text
-Genera una versión del texto base y las preguntas del Nivel 2 en 
-valenciano (normas AVL), manteniendo el mismo nivel de dificultad.
-```
-
-```text
-Añade al final de cada nivel una sección "Autoevaluación" con 2 
-preguntas tipo semáforo: 🟢 Lo entiendo bien / 🟡 Tengo dudas / 
-🔴 Necesito ayuda.
-```
-
-```text
-Crea una rúbrica sencilla de corrección para el profesorado, con los 
-criterios de evaluación de cada nivel y las respuestas esperadas.
-```
-
----
-
-
-## 📦 Entregable
-
-- Un documento Word (.docx) con:
-  - la ficha completa con los tres niveles, lista para imprimir;
-  - el prompt utilizado (con tus adaptaciones reales);
-  - una nota breve (3-4 líneas) explicando cómo has decidido los tres niveles en función de tu grupo.
-
----
-
-
-## 💡 Aplicación inmediata
-
-- **Mañana en el aula:** imprime las tres versiones de la ficha. Reparte a cada alumno/a la versión adecuada a su nivel sin que sea evidente (misma maquetación, diferente contenido). Trabaja la comprensión lectora en la sesión ordinaria.
-- **En la evaluación:** usa la rúbrica generada para corregir de forma rápida y coherente.
-- **Próximas semanas:** reutiliza el mismo prompt cambiando solo el texto base y el tema para generar fichas de otras unidades didácticas en minutos.
-
----
-
-
-## 🚀 Variante rápida (opcional)
-
-Si además necesitas un **registro de seguimiento** para anotar los resultados, pide a Copilot:
-
-```text
-Crea una tabla de seguimiento de comprensión lectora para un grupo de 
-[NÚMERO] alumnos/as de [CURSO] de Primaria. Columnas: Nombre | Nivel 
-asignado (1/2/3) | Preguntas correctas | Observaciones | Fecha. 
-Incluye 5 filas de ejemplo. Formato tabla Markdown para pegar en Word.
-```
-
----
+Esta dirección se conserva para los enlaces anteriores. La propuesta se ha reorganizado dentro del **Laboratorio de prompts**, con retos vinculados a las especialidades del seminario. Puedes continuar con una de estas alternativas:
+
+- [Una actividad, distintas formas de aprender]({{ '/bloque1-actividad-orientacion.html' | relative_url }})
+- [¿Qué oferta conviene realmente?]({{ '/bloque1-actividad-matematicas.html' | relative_url }})
+
+[Consulta los diez retos y elige uno]({{ '/bloque1-actividades.html' | relative_url }})
+
+{% include prompt-lab-privacy.html %}
+
+<!-- Fragmentos conservados para enlaces anteriores. -->
+<span id="actividad--adaptar-materiales-a-distintos-niveles"></span>
+<span id="-objetivo"></span>
+<span id="-situación-real-de-aula"></span>
+<span id="️-qué-vas-a-hacer"></span>
+<span id="-prompt-listo-para-usar"></span>
+<span id="prompt-1--material-multinivel"></span>
+<span id="ejemplo-de-prompt-ya-completado"></span>
+<span id="ejemplo-de-respuesta-de-copilot"></span>
+<span id="texto-base"></span>
+<span id="nivel-1--apoyo"></span>
+<span id="nivel-2--estándar"></span>
+<span id="nivel-3--ampliación"></span>
+<span id="mejora-del-resultado"></span>
+<span id="ejemplo-de-prompt-maestro-para-cuento-visual"></span>
+<span id="cómo-usar-el-prompt-maestro-en-copilot-create-o-designer"></span>
+<span id="ejemplo-de-cuento-visual-generado"></span>
+<span id="-qué-debes-observar-en-la-respuesta"></span>
+<span id="-iteración-guiada"></span>
+<span id="-entregable"></span>
+<span id="-aplicación-inmediata"></span>
+<span id="-variante-rápida-opcional"></span>
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
 Curso 26IA92IN041 · 2.ª edición de 2026 · CEFIRE de Inteligencia Artificial y Pensamiento Computacional
